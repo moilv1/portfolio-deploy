@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-deploy/static/css/main.1f2f04f8.css",
+    "main.js": "/portfolio-deploy/static/js/main.a5a2ac83.js",
+    "static/media/IMG_20240411_161929.webp": "/portfolio-deploy/static/media/IMG_20240411_161929.479c879f1d8c10b335c3.webp",
+    "static/media/CV_Melvin_Flahaut.pdf": "/portfolio-deploy/static/media/CV_Melvin_Flahaut.4665261f7688df843df5.pdf",
+    "static/media/Home_SB.webp": "/portfolio-deploy/static/media/Home_SB.260d7cd851a73ff49ce3.webp",
+    "static/media/Admin_SB_1.webp": "/portfolio-deploy/static/media/Admin_SB_1.1d09cdead34a7e3aa204.webp",
+    "static/media/Kasa_home.webp": "/portfolio-deploy/static/media/Kasa_home.914b9443b1219e5ec371.webp",
+    "static/media/Kasa_logement.webp": "/portfolio-deploy/static/media/Kasa_logement.43cf2ea936d031600725.webp",
+    "static/media/Moi_lv_1.jpg": "/portfolio-deploy/static/media/Moi_lv_1.6610c8e89ad62bf32a6f.jpg",
+    "static/media/1680512368252_Kasa logo.webp": "/portfolio-deploy/static/media/1680512368252_Kasa logo.2ffdc85d625c8dbe235b.webp",
+    "static/media/Kasa_About.webp": "/portfolio-deploy/static/media/Kasa_About.ccdaa961d031c3b051d0.webp",
+    "static/media/Modal_SB.webp": "/portfolio-deploy/static/media/Modal_SB.d4e2dcae86bcad90ceae.webp",
+    "static/media/Kasa_404.webp": "/portfolio-deploy/static/media/Kasa_404.af0eef7bf2aaa3f69d65.webp",
+    "static/media/Valider_SB.webp": "/portfolio-deploy/static/media/Valider_SB.e5c9bd7b0ebb36073201.webp",
+    "static/media/Login_SB.webp": "/portfolio-deploy/static/media/Login_SB.dca8febe4c5ba932bd53.webp",
+    "static/media/Ajout_SB.webp": "/portfolio-deploy/static/media/Ajout_SB.4b2bd251ec21ab1734d7.webp",
+    "static/media/Sophie_Bluel.webp": "/portfolio-deploy/static/media/Sophie_Bluel.c28ec65cf831c7005447.webp",
+    "index.html": "/portfolio-deploy/index.html",
+    "main.1f2f04f8.css.map": "/portfolio-deploy/static/css/main.1f2f04f8.css.map",
+    "main.a5a2ac83.js.map": "/portfolio-deploy/static/js/main.a5a2ac83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f2f04f8.css",
+    "static/js/main.a5a2ac83.js"
+  ]
+}
