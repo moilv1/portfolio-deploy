@@ -14,7 +14,7 @@ import Valider_SB from '../../assets/Sophie_Bluel/Valider_SB.webp';
 
 
 export default function Sophie_Bluel() {
-    const SophieData = DataJson.find(product => product.Titre_projet === "Projet_Sophie_Bluel");
+    const SophieData = DataJson.find(product => product.Titre_projet_2 === "Projet_Sophie_Bluel");
 
     const description_1 = SophieData.descriptions[0].description;
     const description_2 = SophieData.descriptions[1].description;
