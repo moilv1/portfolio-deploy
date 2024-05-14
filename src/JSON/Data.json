@@ -11,7 +11,7 @@
     }
     ,
     {
-        "Titre_projet": "Projet Sophie Bluel",
+        "Titre_projet": "Projet_Sophie_Bluel",
         "id": "2",
         "descriptions": [
             {"id_description":"1", "description": "Pour cette première photo du projet Sophie Bluel il fallait importer les images et les titres qui étaient sur une API pour lequel il fallait faire un appel FETCH pour les récupérer pour ensuite les afficher dynamiquement, les boutons filtres sont aussi à réaliser afin de trier selon la nature de la photo. Tout est réalisé en Javascript."},
