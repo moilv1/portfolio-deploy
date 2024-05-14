@@ -10,10 +10,10 @@ export default function App() {
     <div>
       <BrowserRouter>
         <Routes>
-          <Route path="/*" element={<Page404 />} />
-          <Route path="/" element={<Home />} />
-          <Route path="/Kasa" element={<Kasa />} />
-          <Route path="/SophieBluel" element={<Sophie_Bluel/>} />
+          <Route path="/portfolio-deploy/*" element={<Page404 />} />
+          <Route path="/portfolio-deploy/" element={<Home />} />
+          <Route path="/portfolio-deploy/Kasa" element={<Kasa />} />
+          <Route path="/portfolio-deploy/SophieBluel" element={<Sophie_Bluel/>} />
         </Routes>
       </BrowserRouter>
     </div>
