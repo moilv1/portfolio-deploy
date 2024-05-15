@@ -37,7 +37,7 @@ export default function Sophie_Bluel() {
         <div className="hr"></div>
         <h1>Projet Sophie Bluel</h1>
         <div className="skills">
-            <p>Compètences utilisé pour le projet Sophie Bluel :</p>
+            <p>Compétences utilisées pour le projet Sophie Bluel :</p>
             <div className="skills_img">
                 <img src={logo_html} alt="Logo HTML"></img>
                 <img src={logo_css} alt="Logo CSS"></img>

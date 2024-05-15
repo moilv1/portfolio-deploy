@@ -31,7 +31,7 @@ export default function Kasa() {
         <div className="hr"></div>
         <h1>Projet Kasa</h1>
         <div className="skills">
-            <p>Compètences utilisé pour le projet Kasa :</p>
+            <p>Compétences utilisées pour le projet Kasa :</p>
             <div className="skills_img">
                 <img src={logo_react} alt="Logo de REACT"></img>
                 <img src={logo_sass} alt="Logo de SASS"></img>
