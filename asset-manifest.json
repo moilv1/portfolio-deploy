@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio-deploy/static/css/main.1f2f04f8.css",
-    "main.js": "/portfolio-deploy/static/js/main.47e35bb4.js",
-    "static/media/IMG_20240411_161929.webp": "/portfolio-deploy/static/media/IMG_20240411_161929.479c879f1d8c10b335c3.webp",
+    "main.css": "/portfolio-deploy/static/css/main.974523a4.css",
+    "main.js": "/portfolio-deploy/static/js/main.9cc579bc.js",
     "static/media/CV_Melvin_Flahaut.pdf": "/portfolio-deploy/static/media/CV_Melvin_Flahaut.4665261f7688df843df5.pdf",
+    "static/media/React-icon.svg.png": "/portfolio-deploy/static/media/React-icon.svg.8a6fc0a24a800d1e0f4a.png",
+    "static/media/2560px-Sass_Logo_Color.svg.png": "/portfolio-deploy/static/media/2560px-Sass_Logo_Color.svg.aa16d6441e3e941f60c1.png",
+    "static/media/css.png": "/portfolio-deploy/static/media/css.2145bb6c7160a7e0d8ab.png",
     "static/media/Home_SB.webp": "/portfolio-deploy/static/media/Home_SB.260d7cd851a73ff49ce3.webp",
+    "static/media/GitHub-Logo.wine.png": "/portfolio-deploy/static/media/GitHub-Logo.wine.ad5ec31ebc19798c70a6.png",
+    "static/media/JS_logo.png": "/portfolio-deploy/static/media/JS_logo.ca691704283b1badf98c.png",
+    "static/media/HTML5_logo_and_wordmark.svg.png": "/portfolio-deploy/static/media/HTML5_logo_and_wordmark.svg.35edb1d738d9978f8055.png",
     "static/media/Admin_SB_1.webp": "/portfolio-deploy/static/media/Admin_SB_1.1d09cdead34a7e3aa204.webp",
     "static/media/Kasa_home.webp": "/portfolio-deploy/static/media/Kasa_home.914b9443b1219e5ec371.webp",
     "static/media/Kasa_logement.webp": "/portfolio-deploy/static/media/Kasa_logement.43cf2ea936d031600725.webp",
@@ -18,11 +23,11 @@
     "static/media/Ajout_SB.webp": "/portfolio-deploy/static/media/Ajout_SB.4b2bd251ec21ab1734d7.webp",
     "static/media/Sophie_Bluel.webp": "/portfolio-deploy/static/media/Sophie_Bluel.c28ec65cf831c7005447.webp",
     "index.html": "/portfolio-deploy/index.html",
-    "main.1f2f04f8.css.map": "/portfolio-deploy/static/css/main.1f2f04f8.css.map",
-    "main.47e35bb4.js.map": "/portfolio-deploy/static/js/main.47e35bb4.js.map"
+    "main.974523a4.css.map": "/portfolio-deploy/static/css/main.974523a4.css.map",
+    "main.9cc579bc.js.map": "/portfolio-deploy/static/js/main.9cc579bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f2f04f8.css",
-    "static/js/main.47e35bb4.js"
+    "static/css/main.974523a4.css",
+    "static/js/main.9cc579bc.js"
   ]
 }
