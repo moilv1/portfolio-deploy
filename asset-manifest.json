@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-deploy/static/css/main.974523a4.css",
-    "main.js": "/portfolio-deploy/static/js/main.9cc579bc.js",
+    "main.js": "/portfolio-deploy/static/js/main.cea3a7f6.js",
     "static/media/CV_Melvin_Flahaut.pdf": "/portfolio-deploy/static/media/CV_Melvin_Flahaut.4665261f7688df843df5.pdf",
     "static/media/React-icon.svg.png": "/portfolio-deploy/static/media/React-icon.svg.8a6fc0a24a800d1e0f4a.png",
     "static/media/2560px-Sass_Logo_Color.svg.png": "/portfolio-deploy/static/media/2560px-Sass_Logo_Color.svg.aa16d6441e3e941f60c1.png",
@@ -24,10 +24,10 @@
     "static/media/Sophie_Bluel.webp": "/portfolio-deploy/static/media/Sophie_Bluel.c28ec65cf831c7005447.webp",
     "index.html": "/portfolio-deploy/index.html",
     "main.974523a4.css.map": "/portfolio-deploy/static/css/main.974523a4.css.map",
-    "main.9cc579bc.js.map": "/portfolio-deploy/static/js/main.9cc579bc.js.map"
+    "main.cea3a7f6.js.map": "/portfolio-deploy/static/js/main.cea3a7f6.js.map"
   },
   "entrypoints": [
     "static/css/main.974523a4.css",
-    "static/js/main.9cc579bc.js"
+    "static/js/main.cea3a7f6.js"
   ]
 }
